@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -28,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
