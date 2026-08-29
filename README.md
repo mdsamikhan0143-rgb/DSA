@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
