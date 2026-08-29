@@ -8,7 +8,7 @@ public:
                 ans.push_back(x);
             }
             else {
-                if (count(ans.begin(), ans.end(), x) < k) {
+                if (count(ans.begin(), ans.end(), x) <k) {
                     ans.push_back(x);
                 }
             }
