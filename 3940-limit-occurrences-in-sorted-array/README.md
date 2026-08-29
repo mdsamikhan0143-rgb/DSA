@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/limit-occurrences-in-sorted-array">4312. Limit Occurrences in Sorted Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>sorted</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/limit-occurrences-in-sorted-array">3940. Limit Occurrences in Sorted Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>sorted</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Return an array such that each <strong>distinct</strong> element appears <strong>at most</strong> <code>k</code> times, while preserving the relative order of the elements in <code>nums</code>.</p>
 
