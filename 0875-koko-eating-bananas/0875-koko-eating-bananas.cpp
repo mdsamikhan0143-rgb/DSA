@@ -12,7 +12,7 @@ public:
         int high = *max_element(piles.begin(),piles.end());
 
         while (low<=high){
-            int mid = low + (high - low)/2 ;
+            int mid = (high + low)/2 ;
             long long totalhours = calculateTotalHours(piles,mid);
         if(totalhours <= h){
                 high = mid -1;
