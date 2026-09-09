@@ -1,31 +1,26 @@
 class Solution {
 public:
     long long calculateTotalHours(vector<int>& piles, int speed) {
-        long long totalH = 0;
-
-        for (int bananas : piles) {
-            totalH += (bananas + (long long)speed - 1) / speed;
+        long long  total = 0 ;
+        for (int bananas:piles){
+            total += (bananas + (long long )speed -1)/speed ;
         }
-
-        return totalH;
+        return total ;
     }
-
-    int minEatingSpeed(vector<int>& piles, int h) {
+    int minEatingSpeed (vector<int>&piles,int h){
         int low = 1;
-        int high = *max_element(piles.begin(), piles.end());
+        int high = *max_element(piles.begin(),piles.end());
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        while (low<=high){
+            int mid = low + (high - low)/2 ;
+            long long totalhours = calculateTotalHours(piles,mid);
+        if(totalhours <= h){
+                high = mid -1;
+        }else{
+            low = mid + 1 ;
+          }
+       }
+       return low ;
 
-            long long totalHours = calculateTotalHours(piles, mid);
-
-            if (totalHours <= h) {
-                high = mid - 1;  // Try a slower speed
-            } else {
-                low = mid + 1;   // Need a faster speed
-            }
-        }
-
-        return low;
-    }
+      }
 };
