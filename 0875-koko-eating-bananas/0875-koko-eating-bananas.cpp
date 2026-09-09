@@ -3,7 +3,7 @@ public:
     long long calculateTotalHours(vector<int>& piles, int speed) {
         long long  total = 0 ;
         for (int bananas:piles){
-            total += (bananas + (long long )speed -1)/speed ;
+            total += ceil((double)bananas / speed);
         }
         return total ;
     }
