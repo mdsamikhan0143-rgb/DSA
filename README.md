@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Quicksort
 |  |
@@ -112,4 +113,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+## Enumeration
+|  |
+| ------- |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
