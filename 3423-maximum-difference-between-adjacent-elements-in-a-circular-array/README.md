@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array">3423. Maximum Difference Between Adjacent Elements in a Circular Array</a></h2><h3>Easy</h3><hr><p>Given a <strong>circular</strong> array <code>nums</code>, find the <b>maximum</b> absolute difference between adjacent elements.</p>
+<h2><a href="https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array">3747. Maximum Difference Between Adjacent Elements in a Circular Array</a></h2><h3>Easy</h3><hr><p>Given a <strong>circular</strong> array <code>nums</code>, find the <b>maximum</b> absolute difference between adjacent elements.</p>
 
 <p><strong>Note</strong>: In a circular array, the first and last elements are adjacent.</p>
 
