@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
 |  |
 | ------- |
