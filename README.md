@@ -133,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
