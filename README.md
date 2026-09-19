@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
