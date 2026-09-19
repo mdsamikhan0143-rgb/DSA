@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
