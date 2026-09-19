@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
