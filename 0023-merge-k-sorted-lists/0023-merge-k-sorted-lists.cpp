@@ -4,7 +4,7 @@ public:
         ListNode dummy;
         ListNode* tail = &dummy;
 
-        while (a != nullptr && b != nullptr) {
+        while (a && b) {
             if (a->val <= b->val) {
                 tail->next = a;
                 a = a->next;
@@ -15,13 +15,12 @@ public:
             tail = tail->next;
         }
 
-        tail->next = (a != nullptr) ? a : b;
+        tail->next = a ? a : b;
         return dummy.next;
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int k = lists.size();
-
         if (k == 0) return nullptr;
 
         while (k > 1) {
