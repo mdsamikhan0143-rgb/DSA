@@ -1,36 +1,34 @@
 class Solution {
 public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
+        int row = (int)mat.size();
+        int cols = (int)mat[0].size();
+         
+        int low = 0 ;
+        int high = row-1;
 
-        int low = 0, high = n - 1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            // Find the row containing the middle column's maximum.
-            int row = 0;
-            for (int i = 1; i < m; i++) {
-                if (mat[i][mid] > mat[row][mid]) {
-                    row = i;
-                }
-            }
-
-            int left = (mid > 0) ? mat[row][mid - 1] : -1;
-            int right = (mid < n - 1) ? mat[row][mid + 1] : -1;
-
-            if (mat[row][mid] > left && mat[row][mid] > right) {
-                return {row, mid};
-            }
-
-            if (left > mat[row][mid]) {
-                high = mid - 1;  // Search the left half.
-            } else {
-                low = mid + 1;   // Search the right half.
-            }
+        while(low < high){
+            int mid = (high + low ) / 2 ;
+        
+        int bestcol = 0 ;
+        for(int col = 1; col < cols; col++){
+             if(mat[mid][col]> mat[mid][bestcol]){
+             bestcol = col;
+          } 
         }
+        if(mat[mid][bestcol]>mat[mid+1][bestcol]){
+            high = mid;
+        }else{
+            low = mid+1; 
+        }
+      }
+      int bestcol = 0 ;
+      for(int col = 1;col<cols;col++){
+        if(mat[low][col]> mat[low][bestcol]){
+            bestcol = col;
+        }
+      }
+      return {low, bestcol};
 
-        return {-1, -1};
-    }
+  }
 };
