@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
