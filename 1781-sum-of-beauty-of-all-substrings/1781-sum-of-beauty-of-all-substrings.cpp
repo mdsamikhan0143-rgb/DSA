@@ -12,7 +12,7 @@ public:
         int maxi = 0;
         int mini = INT_MAX;
 
-         for (int k = 0; k < 26; k++) {
+         for (int k = 0; k < 30; k++) {
                 if (freq[k] > 0) {
                     maxi = max(maxi, freq[k]);
                     mini = min(mini, freq[k]);
