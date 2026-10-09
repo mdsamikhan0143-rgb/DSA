@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
