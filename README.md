@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3330-find-the-original-typed-string-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
