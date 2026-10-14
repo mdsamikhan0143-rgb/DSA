@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Quicksort
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
