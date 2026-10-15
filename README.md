@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
