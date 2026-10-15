@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -257,4 +259,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0594-longest-harmonious-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
