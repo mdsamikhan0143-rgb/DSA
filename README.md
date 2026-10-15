@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Greedy
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0029-divide-two-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
