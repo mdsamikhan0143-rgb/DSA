@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Linked List
 |  |
 | ------- |
