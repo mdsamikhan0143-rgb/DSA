@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -230,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
