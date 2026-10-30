@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/bitwise-ors-of-subarrays">898. Bitwise ORs of Subarrays</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>arr</code>, return <em>the number of distinct bitwise ORs of all the non-empty subarrays of</em> <code>arr</code>.</p>
+<h2><a href="https://leetcode.com/problems/bitwise-ors-of-subarrays">934. Bitwise ORs of Subarrays</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>arr</code>, return <em>the number of distinct bitwise ORs of all the non-empty subarrays of</em> <code>arr</code>.</p>
 
 <p>The bitwise OR of a subarray is the bitwise OR of each integer in the subarray. The bitwise OR of a subarray of one integer is that integer.</p>
 
