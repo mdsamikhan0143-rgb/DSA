@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0493-reverse-pairs) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union-Find
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bracket Sequences
 |  |
 | ------- |
