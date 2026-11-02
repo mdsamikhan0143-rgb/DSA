@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
