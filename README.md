@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
