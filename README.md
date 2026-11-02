@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
+| [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0904-fruit-into-baskets) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## String Matching
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
