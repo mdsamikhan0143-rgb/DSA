@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
 |  |
