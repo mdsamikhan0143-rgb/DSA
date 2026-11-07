@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
