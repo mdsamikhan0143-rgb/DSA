@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -400,8 +402,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
