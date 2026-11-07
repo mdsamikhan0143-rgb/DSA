@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0875-koko-eating-bananas) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0904-fruit-into-baskets) |
+| [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0904-fruit-into-baskets) |
+| [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
+| [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
