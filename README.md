@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0493-reverse-pairs) |
+| [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 ## Treap
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
+| [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 <!---LeetCode Topics End-->
