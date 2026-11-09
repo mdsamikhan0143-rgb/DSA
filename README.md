@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
+| [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
 | [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
