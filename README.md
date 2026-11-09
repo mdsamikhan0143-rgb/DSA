@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Greedy
 |  |
@@ -419,4 +422,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
