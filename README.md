@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0493-reverse-pairs) |
+| [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Treap
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
