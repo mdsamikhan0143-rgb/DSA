@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3484-design-spreadsheet](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3484-design-spreadsheet) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3484-design-spreadsheet](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3484-design-spreadsheet) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0493-reverse-pairs) |
 | [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
+| [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Treap
 |  |
 | ------- |
@@ -446,4 +450,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3484-design-spreadsheet) |
+| [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 <!---LeetCode Topics End-->
