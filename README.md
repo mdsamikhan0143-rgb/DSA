@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0904-fruit-into-baskets) |
 | [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
 | [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -470,4 +472,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
