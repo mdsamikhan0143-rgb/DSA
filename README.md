@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0041-first-missing-positive) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0904-fruit-into-baskets) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
 | [0966-vowel-spellchecker](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0966-vowel-spellchecker) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
