@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -422,11 +424,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Fermat's Little Theorem
 |  |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Least Common Multiple
 |  |
 | ------- |
