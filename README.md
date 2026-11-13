@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bracket Sequences
