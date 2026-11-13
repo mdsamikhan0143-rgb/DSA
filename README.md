@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0611-valid-triangle-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Quicksort
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Divide and Conquer
 |  |
