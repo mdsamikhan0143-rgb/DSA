@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
