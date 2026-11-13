@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0611-valid-triangle-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3330-find-the-original-typed-string-i) |
