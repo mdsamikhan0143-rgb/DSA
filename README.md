@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Divide and Conquer
 |  |
