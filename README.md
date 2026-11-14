@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
 |  |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
