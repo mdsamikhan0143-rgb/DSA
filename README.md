@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
