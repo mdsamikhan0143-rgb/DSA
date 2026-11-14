@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-rearranging-fruits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2561-rearranging-fruits) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Counting
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
 ## Divide and Conquer
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bracket Sequences
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0904-fruit-into-baskets) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String Matching
 |  |
 | ------- |
