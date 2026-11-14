@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
