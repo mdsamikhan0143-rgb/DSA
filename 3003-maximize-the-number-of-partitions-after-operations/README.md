@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations">3003. Maximize the Number of Partitions After Operations</a></h2><h3>Hard</h3><hr><p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations">3233. Maximize the Number of Partitions After Operations</a></h2><h3>Hard</h3><hr><p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>First, you are allowed to change <strong>at most</strong> <strong>one</strong> index in <code>s</code> to another lowercase English letter.</p>
 
