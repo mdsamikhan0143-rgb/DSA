@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1323-maximum-69-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1922-count-good-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1922-count-good-numbers) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
