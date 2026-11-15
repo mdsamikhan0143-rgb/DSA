@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bracket Sequences
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2043-simple-bank-system) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
