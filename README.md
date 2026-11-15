@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2043-simple-bank-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2043-simple-bank-system) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
+| [2043-simple-bank-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2043-simple-bank-system) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2043-simple-bank-system) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-design-movie-rental-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1912-design-movie-rental-system) |
+| [2043-simple-bank-system](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2043-simple-bank-system) |
 | [3408-design-task-manager](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3508-implement-router) |
