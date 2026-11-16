@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
