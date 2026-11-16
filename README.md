@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0065-valid-number) |
 | [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
