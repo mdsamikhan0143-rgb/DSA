@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0089-gray-code) |
 ## Database
 |  |
 | ------- |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0089-gray-code) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
