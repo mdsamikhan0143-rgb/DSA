@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0087-scramble-string) |
 | [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0089-gray-code) |
 ## Database
 |  |
