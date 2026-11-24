@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0611-valid-triangle-number) |
