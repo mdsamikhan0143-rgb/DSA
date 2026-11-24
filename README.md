@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0089-gray-code) |
 ## Database
 |  |
