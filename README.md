@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0410-split-array-largest-sum) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0709-to-lower-case](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0709-to-lower-case) |
