@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Brainteaser
 |  |
@@ -612,4 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0075-sort-colors) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
