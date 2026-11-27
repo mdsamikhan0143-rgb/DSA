@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
 |  |
@@ -625,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
