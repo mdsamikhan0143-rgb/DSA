@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0386-lexicographical-numbers) |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Brainteaser
 |  |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
 ## Minimax
 |  |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
