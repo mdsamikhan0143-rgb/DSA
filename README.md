@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Brainteaser
 |  |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0778-swim-in-rising-water](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0778-swim-in-rising-water) |
 ## Minimax
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mdsamikhan0143-rgb/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
